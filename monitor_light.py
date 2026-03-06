@@ -1,6 +1,5 @@
 import time
 import requests
-import sys
 import smbus
 import threading
 import queue
